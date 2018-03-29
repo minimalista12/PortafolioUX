@@ -283,6 +283,32 @@ sm {
 	font-size: 12px;
 }
 
-p a{
-	font-size: 25px;
+
+#sobremi h5 {
+		font-size: 22px;
+	        font-weight: bold;
+	      
+
+}
+
+#educacion h5 {
+		font-size: 22px;
+	        font-weight: bold;
+
+}
+#portafolio h5 {
+		font-size: 22px;
+	        font-weight: bold;
+
+}
+
+#contacto h5 {
+		font-size: 22px;
+	        font-weight: bold;
+
+}
+
+
+
+
 
