@@ -285,30 +285,33 @@ sm {
 
 
 #sobremi h5 {
-		font-size: 22px;
+		font-size: 26px;
 	        font-weight: bold;
 	      
 
 }
 
 #educacion h5 {
-		font-size: 22px;
+		font-size: 26px;
 	        font-weight: bold;
 
 }
 #portafolio h5 {
-		font-size: 22px;
+		font-size: 26px;
 	        font-weight: bold;
 
 }
 
 #contacto h5 {
-		font-size: 22px;
+		font-size: 26px;
 	        font-weight: bold;
 
 }
 
-
+#iconos a  {
+	font-size: 23px;
+	
+}
 
 
 
