@@ -154,8 +154,8 @@ a:after {
 /* Header Wrap */
 #headerwrap {
 	background: url(../img/fotodeperfil.jpg) no-repeat center top;
-	margin-top: 60px;
-	padding-top:140px;
+	margin-top: 0px;
+	padding-top:0px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
